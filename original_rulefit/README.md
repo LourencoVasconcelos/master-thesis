@@ -11,5 +11,4 @@ in the splits. The ensemble of rules together with the original input features a
  in a L1-regularized linear model, also called Lasso, which estimates the effects of each rule on
 the output target but at the same time estimating many of those effects to zero.
 
-You can use rulefit for predicting a numeric response (categorial not yet implemented).
-The input has to be a numpy matrix with only numeric values.
+
