@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr  1 14:01:23 2022
+Created on Fri Apr  1 2022
 
-@author: lourenço
+@author: Lourenço Vasconcelos
 """
 
 """Linear model of tree-based decision rules
