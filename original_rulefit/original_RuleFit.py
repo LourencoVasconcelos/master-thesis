@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug  2 11:39:48 2022
-
-@author: loure
+@author: Lourenço Vasconcelos
 """
 
 from sklearn.model_selection import train_test_split
