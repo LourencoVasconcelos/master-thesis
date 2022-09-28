@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug  9 15:48:17 2022
-
-@author: loure
+@author: Lourenço Vasconcelos
 """
 
 
