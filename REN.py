@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 10 21:35:19 2022
-
-@author: loure
+@author: Lourenço Vasconcelos
 """
 import myRuleGenerator as rf
 from sklearn.linear_model import ElasticNet, ElasticNetCV
