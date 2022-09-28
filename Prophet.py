@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 17 02:28:26 2022
-
-@author: loure
+@author: Lourenço Vasconcelos
 """
 
 from darts import TimeSeries
